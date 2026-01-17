@@ -1,0 +1,2 @@
+# Optimisation polynomes NTT (Number Theoretic Transform) pour les opérations dans les anneaux finis
+# Utilisé dans les algorithmes de chiffrement post-quantiques basés sur les réseaux, tels que LWR et LWE

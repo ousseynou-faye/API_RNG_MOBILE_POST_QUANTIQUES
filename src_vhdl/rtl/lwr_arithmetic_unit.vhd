@@ -1,0 +1,2 @@
+-- # Le cœur de calcul arithmétique LWR pour les opérations dans les anneaux finis
+-- # Utilisé dans les algorithmes de chiffrement post-quantiques basés sur les réseaux, tels que LWR et LWE

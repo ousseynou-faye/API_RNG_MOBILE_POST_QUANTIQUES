@@ -1,0 +1,1 @@
+# Simulation Jitter/Capteurs + Entropie Système + Entropie Utilisateur
